@@ -1,1 +1,12 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ashwin Ninan Philip
+N:Philip;Ashwin Ninan;;;
+ORG:Ni Met Recycling FZ LLC
+TITLE:Quality Controller
+TEL;TYPE=CELL:+971507950252
+EMAIL;TYPE=WORK:ashwin@nimet-recycling.com
+URL:https://www.linkedin.com/in/ashwin-ninan-philip-900793238/
+URL;TYPE=WORK:https://nimet-recycling.com/
+ADR;TYPE=WORK:;;RAKEZ Al Ghail Industrial Zone;Ras Al Khaimah;;;United Arab Emirates
+END:VCARD
